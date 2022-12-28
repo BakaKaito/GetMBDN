@@ -13,16 +13,16 @@
 html{
     scroll-behavior:smooth
 }
-body {
-    font-family: SFUIText-Regular,serif;
-    background-color: #010101;
-    background-image: url('');
-    color: #eee;
-    overflow-x: hidden
+body{
+    font-family:SFUIText-Regular,serif;
+    background-color:#010101;
+    background-image: url(img/starters.jpg);
+    color:#eee;
+    overflow-x:hidden
 }
 h1{
     font-size:45px;
-    background-image:url(img/Starters.jpg);
+    background-image:url(img/gradient.png);
     background-size:cover;
     background-position:center;
     -webkit-background-clip:text;
