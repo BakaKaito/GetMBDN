@@ -15,7 +15,6 @@ html{
 }
 body{
     font-family:SFUIText-Regular,serif;
-    background-color:#010101;
     background-image: url(img/starters.jpg);
     color:#eee;
     overflow-x:hidden
