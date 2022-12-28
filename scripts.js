@@ -48,7 +48,7 @@ if (endq.length === 2)
 		artName = 'SysBot-x64';
 	}
 
-	if (endq[1].toLowerCase() == 'mergebot') //sb.ac
+	if (endq[1].toLowerCase() == 'mb') //sb.mb
 	{
 		organization = 'BakaKaito';
 		project = 'MergeBot.NET';
