@@ -15,9 +15,7 @@ html{
 }
 body {
     font-family: SFUIText-Regular,serif;
-    background-color: #010101;
     background-image: url('https://raw.githubusercontent.com/BakaKaito/GetMBDN/master/CSSbyMirayXS/img/Starters.jpg');
-    color: #eee;
     overflow-x: hidden
 }
 h1{
