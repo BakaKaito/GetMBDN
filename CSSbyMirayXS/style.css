@@ -13,11 +13,12 @@
 html{
     scroll-behavior:smooth
 }
-body{
-    font-family:SFUIText-Regular,serif;
-    background-image:url(img/starters.jpg);
-    color:#eee;
-    overflow-x:hidden
+body {
+    font-family: SFUIText-Regular,serif;
+    background-color: #010101;
+    background-image: url('https://raw.githubusercontent.com/BakaKaito/GetMBDN/master/CSSbyMirayXS/img/Starters.jpg');
+    color: #eee;
+    overflow-x: hidden
 }
 h1{
     font-size:45px;
@@ -138,6 +139,7 @@ header{
     width:100%;
     height:62px;
     position:fixed;
+    background-color:#010101;
     display:inline-block;
     padding-left:15px;
     padding-right:15px;
@@ -255,6 +257,7 @@ header .account-panel .dropdown-content{
     pointer-events:none;
     opacity:0;
     position:absolute;
+    background-color:#010101;
     min-width:100%;
     top:53px;
     z-index:13;
@@ -299,6 +302,7 @@ header .account-panel.clicked .dropdown-content{
     top:0;
     left:0;
     display:grid;
+    background:#010101;
     place-items:center
 }
 .section-b{
