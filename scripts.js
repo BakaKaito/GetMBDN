@@ -47,6 +47,14 @@ if (endq.length === 2)
 		projurl = 'https://github.com/berichan/SysBot.PokemonScarletViolet';
 		artName = 'SysBot-x64';
 	}
+
+	if (endq[1].toLowerCase() == 'mergebot') //sb.ac
+	{
+		organization = 'BakaKaito';
+		project = 'MergeBot.NET';
+		projurl = 'https://github.com/BakaKaito/MergeBot.NET';
+		artName = 'SysBot.NET';
+	}
 }
 else if (organization===null || project ===null || projurl ===null)
 {
