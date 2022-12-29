@@ -16,7 +16,7 @@ hr{
     margin-top:15px
 }
 .secret{
-    opacity:.1;
+    opacity:.5;
     transition:.5s;
     user-select:none
 }

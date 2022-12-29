@@ -28,7 +28,7 @@ h1 {
     background-position: center;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    display: inline-block;
+    display: block;
     font-family: SFUIText-Bold,serif
 }
 h3 {
@@ -49,6 +49,7 @@ code{
     font-size:12px
 }
 .button {
+    display: block;
     text-align: center;
     font-size: 17px;
     font-family: SFUIText-Bold,serif;
