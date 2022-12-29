@@ -302,7 +302,7 @@ header .account-panel.clicked .dropdown-content{
     left: 0;
     display: grid;
     background-image: url(https://raw.githubusercontent.com/BakaKaito/GetMBDN/master/CSSbyMirayXS/img/Starters.jpg);
-    background: #010101;
+    background-color: #010101;
     place-items: center
 }
 .section-b{
