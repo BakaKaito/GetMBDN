@@ -7,7 +7,7 @@ hr{
     margin:0 35px
 }
 .field {
-    background-color: rgba(255,255,255,0.4);
+    background-color: #010101;
     border-radius: 10px;
     display: flex;
     flex-direction: row
