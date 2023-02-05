@@ -53,7 +53,7 @@ if (endq.length === 2)
 		organization = 'BakaKaito';
 		project = 'MergeBot.NET';
 		projurl = 'https://github.com/BakaKaito/MergeBot.NET';
-		artName = 'SysBot-x64';
+		artName = 'MergeBot-x64';
 	}
 }
 else if (organization===null || project ===null || projurl ===null)
