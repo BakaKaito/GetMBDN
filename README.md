@@ -14,7 +14,7 @@ The following parameters are required:
 
 For example, 
 
-[https://Bakakaito.github.io/GetSBMB/?org=project-pokemon&proj=pkNX&projurl=https://github.com/kwsch/pkNX](https://Bakakaito.github.io/GetSBMB/?org=project-pokemon&proj=pkNX&projurl=https://github.com/kwsch/pkNX)
+[https://Bakakaito.github.io/GetMBDM/?org=project-pokemon&proj=pkNX&projurl=https://github.com/kwsch/pkNX](https://Bakakaito.github.io/GetSBMB/?org=project-pokemon&proj=pkNX&projurl=https://github.com/kwsch/pkNX)
 
 will get you the latest Azure Pipeline build for pkNX, and will redirect users directly to the Pipeline/source if anything is going wrong.
 
